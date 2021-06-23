@@ -1,0 +1,3 @@
+Make test class with all cases covered
+Run test class and get fails
+Build up the classes/methods being tested until they pass the test class
